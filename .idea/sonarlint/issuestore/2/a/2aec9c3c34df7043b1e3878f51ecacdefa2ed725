@@ -1,0 +1,15 @@
+
+]
+java:S1854"GRemove this useless assignment to local variable "decodeEncryptedData".(©ÍªÀ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÖŽÅ¸
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¹Ôú×
+N
+java:S1481"8Remove this unused "decodeEncryptedData" local variable.(©ÍªÀ
+>
+java:S5542"#Use secure mode and padding scheme.(»¦µªúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¢çìšüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬Ü½–ûÿÿÿÿ
+V
+java:S1128"4Remove this unused import 'java.security.PublicKey'.(ºâú½üÿÿÿÿ8ñÞã ã0
+d
+java:S1128"BRemove this unused import 'java.security.spec.X509EncodedKeySpec'.(¢ŸÇ¨úÿÿÿÿ8ñÞã ã0

@@ -1,0 +1,10 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ‡Ô°úÿÿÿÿ
+>
+java:S5542"#Use secure mode and padding scheme.(»¦µªúÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(™ªýª
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(¥ÒÓìûÿÿÿÿ8¹óš ã0
+b
+java:S1128"@Remove this unused import 'org.brody.encryption.CryptoUtilImpl'.(çÛÖäýÿÿÿÿ8Ó®š ã0
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8Ó®š ã0
